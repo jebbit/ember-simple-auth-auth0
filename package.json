@@ -1,6 +1,6 @@
 {
   "name": "@jebbit/ember-simple-auth-auth0",
-  "version": "5.1.4",
+  "version": "5.1.5",
   "description": "ember-simple-auth addon for Auth0 + Lock.js.",
   "directories": {
     "doc": "doc",
